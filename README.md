@@ -6,3 +6,8 @@ We illustrated how to build a model based collaborative filtering recommender sy
 Implemented Stochastic Gradient Descent for minimizing the cost function.
 
 Used the model to make recommendations for the user.
+
+Dataset link:
+
+GroupLence. https://grouplens.org/datasets/movielens, 1995.
+
